@@ -1,0 +1,5 @@
+a = input("Choose a number: ")
+op = input("Choose an operation: ")
+b = input(Choose another number: )
+result = eval(a+b+c)
+print (result)
